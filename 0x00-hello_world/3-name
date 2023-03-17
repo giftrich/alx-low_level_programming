@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x cisfun
+gcc main.c -o cisfun
