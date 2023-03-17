@@ -1,5 +1,3 @@
-6-size.c
-
 #include<stdio.h>
 /**
 * main - Entry point
